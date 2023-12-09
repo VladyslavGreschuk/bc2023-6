@@ -1,0 +1,14 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "web lab 6 - inventorization",
+        "description": "description",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+        "api": "http://localhost:8000",
+        "description": "local server"
+        }
+    ]
+}
